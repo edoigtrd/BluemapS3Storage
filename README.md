@@ -23,7 +23,7 @@ prefix: myserver
 
 3. In .plugins/BlueMap/world.conf, set the storage to s3
 ```
-storage: "edoigtrd:s3"
+storage: "s3"
 ```
 It should be around line 141, do it for all worlds you want to upload to S3.
 
